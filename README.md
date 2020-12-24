@@ -1,5 +1,5 @@
 # SecurityExercises
-just some playing around with security methods, nothing beyond that
+just some playing around, nothing beyond that
 
 
 Notes:
